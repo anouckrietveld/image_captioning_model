@@ -13,7 +13,7 @@ About the Project
 Our implementation follows the key ideas from Xu et al. (2014), incorporating:
 - Convolutional Neural Networks (CNNs) for image feature extraction
 - Recurrent Neural Networks (RNNs) / LSTMs for sequence generation
-- Soft Visual Attention Mechanisms to dynamically focus on relevant image regions while generating captions
+- Soft and Hard Visual Attention Mechanisms to dynamically focus on relevant image regions while generating captions
 
 ## Final Report
 
